@@ -66,7 +66,9 @@ Deux dossiers ont été conservés par précaution :
 
 ### Commande de compilation
 
+```bash
 gcc -I src/include -L src/lib -o PROJETMODIF main.c -lraylib -lopengl32 -lgdi32 -lwinmm
+```
 
 ### Exécution
 
