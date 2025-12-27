@@ -14,10 +14,15 @@ Le dépôt contient plusieurs versions du projet, conservées volontairement en 
 
 .
 ├── PROJETALGOFIN/        # Dernières modifications et tests
+
 ├── PROJET_END/           # Version utilisée pour la présentation finale
+
 ├── MainFinal.c           # Version finale stable du programme
+
 ├── trie_fusion.c         # Implémentation simple du tri fusion (référence)
+
 ├── README.md
+
 
 ### Remarque
 Deux dossiers ont été conservés par précaution :
