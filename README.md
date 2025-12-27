@@ -12,7 +12,7 @@ Il a été réalisé dans un **cadre scolaire**, avec pour objectif de mieux com
 
 Le dépôt contient plusieurs versions du projet, conservées volontairement en raison des itérations de fin de projet.
 
-.
+
 ├── PROJETALGOFIN/        # Dernières modifications et tests
 
 ├── PROJET_END/           # Version utilisée pour la présentation finale
